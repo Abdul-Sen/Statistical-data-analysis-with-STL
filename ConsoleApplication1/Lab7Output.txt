@@ -1,0 +1,8 @@
+
+Statistics
+==========
+y mean    =   11.00
+y sigma   =    2.58
+y median  =   12.00
+slope     =    1.91
+intercept =    5.18
